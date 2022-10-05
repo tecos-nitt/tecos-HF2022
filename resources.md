@@ -13,4 +13,9 @@ Here are some repositories that you can go through:
 3. https://up-for-grabs.net/#/
 How to get started with GitLab: https://about.gitlab.com/get-started/
 How do you make sure your pull requests are worthy:  https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/
-
+Here are some beginner projects that you can look into to give yourself a start in the open source journey:
+1. https://github.com/GitGud-org/GitGud
+2. https://github.com/Homebrew/brew
+3. https://github.com/MakeContributions/DSA
+4. https://github.com/robstoll/atrium
+5. https://github.com/h2oai/wave-apps
