@@ -13,4 +13,13 @@ Here are some repositories that you can go through:
 3. https://up-for-grabs.net/#/
 How to get started with GitLab: https://about.gitlab.com/get-started/
 How do you make sure your pull requests are worthy:  https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/
-
+We have collected some projects for you:
+1. https://github.com/kamranahmedse/developer-roadmap
+2. https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+3. https://github.com/leonardomso/33-js-concepts
+4. https://github.com/TheAlgorithms/JavaScript
+5. https://github.com/TheAlgorithms/C-Plus-Plus
+6. https://github.com/TheAlgorithms/Java
+7. https://github.com/TheAlgorithms/Python
+8. https://github.com/MakeContributions/DSA
+9. https://github.com/microsoft/Web-Dev-For-Beginners
