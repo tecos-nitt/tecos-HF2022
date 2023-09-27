@@ -7,7 +7,7 @@ Introduction to Github and how to Git.
 2. https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide
 3. https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
 4. https://www.youtube.com/watch?v=apGV9Kg7ics
-#Here are some repositories that you can go through: 
+Here are some repositories that you can go through: 
 1. https://github.com/firstcontributions/first-contributions
 2. https://github.com/mungell/awesome-for-beginners
 3. https://up-for-grabs.net/#/
